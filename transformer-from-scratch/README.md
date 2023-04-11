@@ -4,8 +4,8 @@ This folder contains code for the reproduction of the *Attention is all you need
 
 For more details see the corresponding blogpost
 
-- here TODO
-- or here TODO
+- here <https://martin-dittgen.de/blogpost/transformer-from-scratch.html>
+- or here <https://medium.com/@martin.p.dittgen/reproducing-the-attention-is-all-you-need-paper-from-scratch-d2fb40bb25d4>
 
 The data, with the trained transformer models, the tokenizer, and the model results on the validation and test set can be downloaded here: TODO
 
@@ -45,7 +45,7 @@ conda activate torch-gpu
 # see here: https://pytorch.org/get-started/locally/
 
 # 3. install other packages with pip
-pip install numpy pandas tabulate tokenizers flask waitress juypter jupytext seaborn matplotlib
+pip install numpy pandas tabulate tokenizers flask waitress jupyter jupytext seaborn matplotlib tqdm nltk torchmetrics
 ~~~~~~~~~
 
 ### 2. Convert Notebooks back from py:percent
