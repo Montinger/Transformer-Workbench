@@ -1,0 +1,11 @@
+finetune_params:
+nr_warmup_epochs: 2
+nr_epochs: 8
+batch_size: 64
+new_dropout: 0.1
+
+adamW_parameters_finetune:
+lr: 4e-05
+betas: (0.9, 0.98)
+eps: 1e-06
+weight_decay: 0.1
