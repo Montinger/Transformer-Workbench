@@ -7,7 +7,10 @@ For more details see the corresponding blogpost
 - here <https://martin-dittgen.de/blogpost/transformer-from-scratch.html>
 - or here <https://medium.com/@martin.p.dittgen/reproducing-the-attention-is-all-you-need-paper-from-scratch-d2fb40bb25d4>
 
-The data, with the trained transformer models, the tokenizer, and the model results on the validation and test set can be downloaded here: TODO
+The data, with the trained transformer models, the tokenizer, and the model results on the validation and test set can be downloaded here: 
+
+- https://martin-dittgen.de/downloads/transformer-from-scratch-results.zip
+- Mirror: https://storage.googleapis.com/transformer-from-scratch-results/transformer-from-scratch-results.zip
 
 
 ## Overview of Files
