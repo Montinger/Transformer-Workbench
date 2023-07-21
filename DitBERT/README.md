@@ -1,14 +1,12 @@
-# Transformer from Scratch
+# DitBERT
 
 This folder contains code for my own BERT-like model *DitBERT*.
 
 
 For more details see the corresponding blogpost
 
-**TODO: update**
-
-- here <https://martin-dittgen.de/blogpost/transformer-from-scratch.html>
-- or here <https://medium.com/@martin.p.dittgen/reproducing-the-attention-is-all-you-need-paper-from-scratch-d2fb40bb25d4>
+- here <https://martin-dittgen.de/blogpost/training-ditbert.html>
+- or here <https://medium.com/@martin.p.dittgen/training-a-bert-model-from-scratch-on-a-single-nvidia-rtx-3060-1a7a2b1039a5>
 
 
 The pre-trained *DitBERT* model and tokenizer can be downloaded from:
