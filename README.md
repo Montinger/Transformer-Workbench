@@ -14,3 +14,7 @@ This folder contains the code to define and train my own BERT-like model *DitBER
 
 Contains the code used to parse the text corpora, used to train e.g. DitBERT.
 
+## LoRA-from-scratch
+
+A from scratch implementation of *Low-Rank Adaptation* (LoRA) for a RoBERTa model. This blogpost also shows an optimized version of QLoRA (Quantized LoRA) with the huggingface *PEFT* library and bitsandbytes for quantization.
+

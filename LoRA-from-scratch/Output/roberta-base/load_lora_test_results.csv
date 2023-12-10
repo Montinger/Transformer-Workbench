@@ -1,0 +1,12 @@
+,task,validation_exact_match,validation_f1,validation_exact,validation_total,validation_HasAns_exact,validation_HasAns_f1,validation_HasAns_total,validation_NoAns_exact,validation_NoAns_f1,validation_NoAns_total,validation_best_exact,validation_best_exact_thresh,validation_best_f1,validation_best_f1_thresh,validation_matthews_correlation,test_not_calculated,validation_matched_accuracy,validation_mismatched_accuracy,test_matched_not_calculated,test_mismatched_not_calculated,validation_accuracy,validation_pearson,validation_spearmanr
+0,squad_v1,79.39451277199622,86.8562573031659,,,,,,,,,,,,,,,,,,,,,
+0,squad_v2,,45.423040626609826,41.160616524888404,11873.0,77.59784075573549,86.13491251007729,5928.0,4.827586206896552,4.827586206896552,5945.0,75.98753474269351,0.1941668540239334,79.27704492290803,0.24419192969799042,,,,,,,,,
+0,cola,,,,,,,,,,,,,,,0.5679361809424823,,,,,,,,
+0,mnli,,,,,,,,,,,,,,,,,0.8544065206316862,0.8588283157038242,,,,,
+0,mrpc,,0.9168141592920355,,,,,,,,,,,,,,,,,,,0.8848039215686274,,
+0,qnli,,,,,,,,,,,,,,,,,,,,,0.9198242723778144,,
+0,qqp,,0.8534454658061151,,,,,,,,,,,,,,,,,,,0.8887954489240663,,
+0,rte,,,,,,,,,,,,,,,,,,,,,0.740072202166065,,
+0,sst2,,,,,,,,,,,,,,,,,,,,,0.9380733944954128,,
+0,stsb,,,,,,,,,,,,,,,,,,,,,,0.8083003759021375,0.8167311036704388
+0,wnli,,,,,,,,,,,,,,,,,,,,,0.43661971830985913,,
