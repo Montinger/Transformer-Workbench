@@ -4,8 +4,8 @@ This folder contains code for a from scratch implementation of *Low-Rank Adaptat
 
 For more details see the corresponding blogpost
 
-- here **not yet published**
-- or here **not yet published**
+- here <https://medium.com/towards-data-science/implementing-lora-from-scratch-20f838b046f1>
+- or here <https://martin-dittgen.de/blogpost/lora-from-scatch.html>
 
 As the trained LoRA parameters are quite small you can find them in the *Output* folder.
 
